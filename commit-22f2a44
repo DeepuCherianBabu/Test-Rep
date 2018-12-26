@@ -1,0 +1,10 @@
+From 22f2a447f1eb0bfeb89f2447757e898a6a6c55f0 Mon Sep 17 00:00:00 2001
+From: DeepuCherianBabu <deepu.c@atollsolutions.com>
+Date: Wed, 26 Dec 2018 11:27:23 +0530
+Subject: Revert "added example"
+
+This reverts commit db83bc270e134f99987b67a38a285ef5736892c6.
+
+diff --git a/example.txt b/example.txt
+deleted file mode 100644
+index e69de29..0000000
